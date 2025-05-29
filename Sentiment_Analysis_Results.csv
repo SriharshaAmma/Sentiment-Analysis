@@ -1,0 +1,21 @@
+Text,Sentiment,Confidence,Translated_Text
+I love this product!,Positive 😀,0.62,I love this product!
+"Terrible service, I am very disappointed.",Negative 😡,-0.99,"Terrible service, I am very disappointed."
+"It’s okay, nothing special.",Positive 😀,0.43,"It’s okay, nothing special."
+"Excelente experiencia, muy recomendado.",Positive 😀,0.58,"Excellent experience, highly recommended."
+"J'adore ce produit, il est fantastique!",Positive 😀,0.5,"I love this product, it is fantastic!"
+Das war eine schreckliche Erfahrung.,Negative 😡,-1.0,That was a terrible experience.
+"Could be better, but not bad.",Positive 😀,0.42,"Could be better, but not bad."
+Absolutely amazing! Will buy again.,Positive 😀,0.75,Absolutely amazing! Will buy again.
+No me gustó para nada.,Neutral 😐,0.0,I didn't like it at all.
+"Service was slow, but the food was good.",Positive 😀,0.2,"Service was slow, but the food was good."
+I’m not sure how I feel about this.,Negative 😡,-0.25,I’m not sure how I feel about this.
+Worst app I've ever used.,Negative 😡,-1.0,Worst app I've ever used.
+"Muy bueno, me encantó.",Positive 😀,0.8,"Very good, I loved it."
+"C'était correct, sans plus.",Positive 😀,0.5,"It was correct, nothing more."
+Great value for the price.,Positive 😀,0.8,Great value for the price.
+Nie polecam tego produktu.,Neutral 😐,0.0,I do not recommend this product.
+Fast delivery and friendly staff.,Positive 😀,0.29,Fast delivery and friendly staff.
+Demasiado caro para lo que es.,Negative 😡,-0.5,Too expensive for what it is.
+I will recommend this to my friends!,Neutral 😐,0.0,I will recommend this to my friends!
+Not worth the money.,Negative 😡,-0.15,Not worth the money.
