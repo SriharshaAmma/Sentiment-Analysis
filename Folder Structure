@@ -1,0 +1,10 @@
+sentiment-app/ 
+├── app.py
+├── templates/
+    └── index.html 
+├── static/ 
+      ├──style.css
+      └──background.jpg
+
+here is the folder structure for sentiment-Analyzer app
+
